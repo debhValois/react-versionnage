@@ -1,8 +1,8 @@
 <div align="center">
     <h2>
-      <img src="./public/logo192.png" width="40x"/>
+      <img src="./public/logo192.png" width="20x"/>
       REACT &nbsp; D E P L O Y 
-      <img src="./public/logo192.png" width="40x"/>
+      <img src="./public/logo192.png" width="20x"/>
     </h2>
     <h3>Mon premier React-Rest Deploy & Build</h3> 
 </div>
@@ -17,10 +17,13 @@
 
 <a href="https://debhvalois.github.io/react-versionnage/" target="_blank">🔗 Accédez à l'app en ligne</a>
     
+#
 
 ## :hammer_and_wrench: Technos utilisées :
 
 # ReactJS | API Rest | Lib Axios
+
+#
 
 ## :octocat: L'auteure :
 
