@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+<div align="center">
+    <h2>
+      ⚙ <img src="./public/logo192.png" width="40x"/>
+      REACT &nbsp; D E P L O Y 
+      <img src="./public/logo192.png" width="40x"/> ⚙
+    </h2>
+    <a href="https://debhvalois.github.io/react-versionnage/" target="_blank">🔗 Accédez à l'app en ligne</a>
+    <h3>Mon premier React-Rest Deploy & Build</h3> 
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img alt="Tasse du Café" title="portfolio" src="./img/icon6.png"/>
+</h1>
+<p align="center"> Status <☕> Update 08 avril 2023 <☕/></p>
 
-## Available Scripts
+#
 
-In the project directory, you can run:
+### Description
 
-### `npm start`
+- Mon premier React-Rest Deploy & Build
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📁 Accessibilité :
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Pour lire les codes sources, il suffit d'y accéder directement dans ce répô.
+- Pour accéder à la page, cliquez sur l'image ci-dessous avec le _scroll_ ou avec le bouton droit de le mouse pour ouvrir dans un nouvel onglet :
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://debhvalois.github.io/react-versionnage/" alt="Page" target="_blank">
+        <img src="img/mobile.jpg" width="150px" alt="mobile"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### `npm test`
+## :hammer_and_wrench: Technos utilisées :
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# ReactJS | API Rest | Lib Axios
 
-### `npm run build`
+## :octocat: L'auteure :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <sub>
+          <b>Debh Valois</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<a href="https://www.linkedin.com/in/debhvaloispsy/" alt="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://wa.me/message/BEJEUW7SBB2HH1" alt="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120">
+</a>
